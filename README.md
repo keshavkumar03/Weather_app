@@ -1,2 +1,2 @@
 # Weather_app
-this is an Weather app using weather API 
+This is a Weather app by open weather API using NODE.JS & EXPRESS.JS
